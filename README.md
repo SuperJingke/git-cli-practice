@@ -14,7 +14,7 @@ Assuming that you are currently within a Git repository, write the command (or c
 		git add <README.md>
 		git commit-m “<commit changes>”
 
-##4 
+## 4 
 Assuming that you are currently within a Git repository, write the command (or commands) that will display the changes from the commit with the ID of abc123.
 		git show abc123
 
