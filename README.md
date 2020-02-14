@@ -27,3 +27,4 @@ Assuming that you are currently within a Git repository, write the command (or c
 Assuming that you are currently within a Git repository, write the command (or commands) that will check to see if the remote repository contains any new commits.
     
 git diff <my-new-repository>/<master>
+# git-cli-practice
